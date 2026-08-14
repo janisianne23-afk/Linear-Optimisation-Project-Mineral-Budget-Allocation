@@ -6,8 +6,9 @@ This project involves data cleaning and analysis to optimize budget allocation f
 * **Mathematical concepts:** Correlation analysis, linear optimization, and data normalization
 
 ## How to run the project
-1. Open and run 'Project3_CLEANING.ipynb' to process raw dataset and generate standardized data.
-2. Open and run 'Project3_Analysis.ipynb' to view the statistical correlations, graphs, and final optimization results.
+1. Open and download the Project3 folder.
+2. Open and run 'Project3_CLEANING.ipynb' to process raw dataset and generate standardized data.
+3. Open and run 'Project3_Analysis.ipynb' to view the statistical correlations, graphs, and final optimization results.
 
 ## Key findings
 * Gold demonstrated a significantly stronger correlation to positive returns compared to Iron Ore.
